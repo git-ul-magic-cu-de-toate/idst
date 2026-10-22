@@ -1,0 +1,12 @@
+5
+
+Web Scraping With Python: Beginner to Advanced.
+
+Table of content
+
+1. What is web scraping?
+
+2. Now the question is how do we get data from websites?
+
+3. Performing web scraping with multiple libraries
+
